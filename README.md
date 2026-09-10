@@ -23,7 +23,18 @@ x install std-ai
 - **Latest**: `v0.0.17` (2026-08-21)
 - **Last commit**: 2026-08-21
 - **Assets in release**: 7
-- **Published**: 2026-08-21T08:36:18Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [checksums.txt](https://github.com/StringKe/std-ai/releases/download/v0.0.17/checksums.txt) | 612 B | `other` |
+| [std-agent_0.0.17_darwin_amd64.tar.gz](https://github.com/StringKe/std-ai/releases/download/v0.0.17/std-agent_0.0.17_darwin_amd64.tar.gz) | 4.3 MiB | `native/darwin/x64` |
+| [std-agent_0.0.17_darwin_arm64.tar.gz](https://github.com/StringKe/std-ai/releases/download/v0.0.17/std-agent_0.0.17_darwin_arm64.tar.gz) | 4.0 MiB | `native/darwin/arm64` |
+| [std-agent_0.0.17_linux_amd64.tar.gz](https://github.com/StringKe/std-ai/releases/download/v0.0.17/std-agent_0.0.17_linux_amd64.tar.gz) | 4.3 MiB | `native/linux/x64` |
+| [std-agent_0.0.17_linux_arm64.tar.gz](https://github.com/StringKe/std-ai/releases/download/v0.0.17/std-agent_0.0.17_linux_arm64.tar.gz) | 3.9 MiB | `native/linux/arm64` |
+| [std-agent_0.0.17_windows_amd64.zip](https://github.com/StringKe/std-ai/releases/download/v0.0.17/std-agent_0.0.17_windows_amd64.zip) | 4.5 MiB | `native/win/x64` |
+| [std-agent_0.0.17_windows_arm64.zip](https://github.com/StringKe/std-ai/releases/download/v0.0.17/std-agent_0.0.17_windows_arm64.zip) | 4.0 MiB | `native/win/arm64` |
 
 ## Popularity
 
@@ -58,8 +69,8 @@ Total: **16,758** lines of code across **148** files in the top 5 languages.
 Install metadata for std-ai lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `std-ai` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/std-ai.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/std-ai.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:24:15Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:02:57Z._
