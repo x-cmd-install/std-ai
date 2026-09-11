@@ -12,6 +12,18 @@ One .stdai/ source of truth, fanned out to 22 AI coding tools: Claude Code, Code
 x install std-ai
 ```
 
+## Code insight
+
+Total: **16,758** lines of code across **148** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 16,451 | 1,703 | 1,494 | 142 |
+| Toml | 141 | 4 | 13 | 3 |
+| Sh | 76 | 9 | 8 | 1 |
+| PowerShell | 68 | 14 | 14 | 1 |
+| Batch | 22 | 2 | 4 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/StringKe/std-ai>
@@ -23,18 +35,6 @@ x install std-ai
 - **Latest**: `v0.0.17` (2026-08-21)
 - **Last commit**: 2026-08-21
 - **Assets in release**: 7
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [checksums.txt](https://github.com/StringKe/std-ai/releases/download/v0.0.17/checksums.txt) | 612 B | `other` |
-| [std-agent_0.0.17_darwin_amd64.tar.gz](https://github.com/StringKe/std-ai/releases/download/v0.0.17/std-agent_0.0.17_darwin_amd64.tar.gz) | 4.3 MiB | `native/darwin/x64` |
-| [std-agent_0.0.17_darwin_arm64.tar.gz](https://github.com/StringKe/std-ai/releases/download/v0.0.17/std-agent_0.0.17_darwin_arm64.tar.gz) | 4.0 MiB | `native/darwin/arm64` |
-| [std-agent_0.0.17_linux_amd64.tar.gz](https://github.com/StringKe/std-ai/releases/download/v0.0.17/std-agent_0.0.17_linux_amd64.tar.gz) | 4.3 MiB | `native/linux/x64` |
-| [std-agent_0.0.17_linux_arm64.tar.gz](https://github.com/StringKe/std-ai/releases/download/v0.0.17/std-agent_0.0.17_linux_arm64.tar.gz) | 3.9 MiB | `native/linux/arm64` |
-| [std-agent_0.0.17_windows_amd64.zip](https://github.com/StringKe/std-ai/releases/download/v0.0.17/std-agent_0.0.17_windows_amd64.zip) | 4.5 MiB | `native/win/x64` |
-| [std-agent_0.0.17_windows_arm64.zip](https://github.com/StringKe/std-ai/releases/download/v0.0.17/std-agent_0.0.17_windows_arm64.zip) | 4.0 MiB | `native/win/arm64` |
 
 ## Popularity
 
@@ -48,21 +48,24 @@ x install std-ai
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 9 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 17 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-12 | 7 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-13 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-13 | 9 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-15 | 17 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-16 | 17 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-21 | 17 | 0 | 0 | 0 | 0 | 0 |
 
-## Code size
+## Release assets
 
-Total: **16,758** lines of code across **148** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 16,451 | 1,703 | 1,494 | 142 |
-| Toml | 141 | 4 | 13 | 3 |
-| Sh | 76 | 9 | 8 | 1 |
-| PowerShell | 68 | 14 | 14 | 1 |
-| Batch | 22 | 2 | 4 | 1 |
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [checksums.txt](https://github.com/StringKe/std-ai/releases/download/v0.0.17/checksums.txt) | 612 B | `other` |
+| [std-agent_0.0.17_darwin_amd64.tar.gz](https://github.com/StringKe/std-ai/releases/download/v0.0.17/std-agent_0.0.17_darwin_amd64.tar.gz) | 4.3 MiB | `native/darwin/x64` |
+| [std-agent_0.0.17_darwin_arm64.tar.gz](https://github.com/StringKe/std-ai/releases/download/v0.0.17/std-agent_0.0.17_darwin_arm64.tar.gz) | 4.0 MiB | `native/darwin/arm64` |
+| [std-agent_0.0.17_linux_amd64.tar.gz](https://github.com/StringKe/std-ai/releases/download/v0.0.17/std-agent_0.0.17_linux_amd64.tar.gz) | 4.3 MiB | `native/linux/x64` |
+| [std-agent_0.0.17_linux_arm64.tar.gz](https://github.com/StringKe/std-ai/releases/download/v0.0.17/std-agent_0.0.17_linux_arm64.tar.gz) | 3.9 MiB | `native/linux/arm64` |
+| [std-agent_0.0.17_windows_amd64.zip](https://github.com/StringKe/std-ai/releases/download/v0.0.17/std-agent_0.0.17_windows_amd64.zip) | 4.5 MiB | `native/win/x64` |
+| [std-agent_0.0.17_windows_arm64.zip](https://github.com/StringKe/std-ai/releases/download/v0.0.17/std-agent_0.0.17_windows_arm64.zip) | 4.0 MiB | `native/win/arm64` |
 
 ## Improve this data
 
@@ -73,4 +76,4 @@ Install metadata for std-ai lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:02:57Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:17:56Z._
