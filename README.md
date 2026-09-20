@@ -4,7 +4,7 @@
 
 One .stdai/ source of truth, fanned out to 22 AI coding tools: Claude Code, Codex, Cursor, Copilot, Gemini CLI, Windsurf/Devin, Amp, Warp and more. Native formats, Agent Skills, MCP, context budgets, drift detection.
 
-![std-ai](https://repo.x-cmd.io/std-ai.svg)
+[![x-cmd/install — std-ai Code Quality Monitoring Repo Card](https://repo.x-cmd.io/std-ai.svg)](https://x-cmd.com/install/std-ai)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install std-ai
 
 ## Code insight
 
-Total: **18,208** lines of code across **156** files in the top 5 languages.
+Total: **18,857** lines of code across **156** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 17,901 | 1,884 | 1,619 | 150 |
+| Go | 18,550 | 1,950 | 1,659 | 150 |
 | Toml | 141 | 4 | 13 | 3 |
 | Sh | 76 | 9 | 8 | 1 |
 | PowerShell | 68 | 14 | 14 | 1 |
@@ -32,7 +32,7 @@ Total: **18,208** lines of code across **156** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.0.19` (2026-09-18)
+- **Latest**: `v0.0.22` (2026-09-18)
 - **Last commit**: 2026-09-18
 - **Assets in release**: 11
 
@@ -42,34 +42,34 @@ Total: **18,208** lines of code across **156** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 1 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 47
+- **Releases**: 22 · **Merged PRs**: 1 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 51
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 9 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 11 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-22 | 19 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-23 | 19 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-28 | 19 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-21 | 6 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 12 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 14 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-24 | 22 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-25 | 22 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-30 | 22 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/StringKe/std-ai/releases/download/v0.0.19/checksums.txt) | 1.0 KiB | `other` |
-| [std-agent_0.0.19_darwin_amd64.tar.gz](https://github.com/StringKe/std-ai/releases/download/v0.0.19/std-agent_0.0.19_darwin_amd64.tar.gz) | 4.4 MiB | `native/darwin/x64` |
-| [std-agent_0.0.19_darwin_arm64.tar.gz](https://github.com/StringKe/std-ai/releases/download/v0.0.19/std-agent_0.0.19_darwin_arm64.tar.gz) | 4.0 MiB | `native/darwin/arm64` |
-| [std-agent_0.0.19_freebsd_amd64.tar.gz](https://github.com/StringKe/std-ai/releases/download/v0.0.19/std-agent_0.0.19_freebsd_amd64.tar.gz) | 4.3 MiB | `native/linux/x64` |
-| [std-agent_0.0.19_freebsd_arm64.tar.gz](https://github.com/StringKe/std-ai/releases/download/v0.0.19/std-agent_0.0.19_freebsd_arm64.tar.gz) | 3.8 MiB | `native/linux/arm64` |
-| [std-agent_0.0.19_linux_amd64.tar.gz](https://github.com/StringKe/std-ai/releases/download/v0.0.19/std-agent_0.0.19_linux_amd64.tar.gz) | 4.3 MiB | `native/linux/x64` |
-| [std-agent_0.0.19_linux_arm64.tar.gz](https://github.com/StringKe/std-ai/releases/download/v0.0.19/std-agent_0.0.19_linux_arm64.tar.gz) | 3.9 MiB | `native/linux/arm64` |
-| [std-agent_0.0.19_openbsd_amd64.tar.gz](https://github.com/StringKe/std-ai/releases/download/v0.0.19/std-agent_0.0.19_openbsd_amd64.tar.gz) | 4.3 MiB | `native/linux/x64` |
-| [std-agent_0.0.19_openbsd_arm64.tar.gz](https://github.com/StringKe/std-ai/releases/download/v0.0.19/std-agent_0.0.19_openbsd_arm64.tar.gz) | 3.8 MiB | `native/linux/arm64` |
-| [std-agent_0.0.19_windows_amd64.zip](https://github.com/StringKe/std-ai/releases/download/v0.0.19/std-agent_0.0.19_windows_amd64.zip) | 4.5 MiB | `native/win/x64` |
-| [std-agent_0.0.19_windows_arm64.zip](https://github.com/StringKe/std-ai/releases/download/v0.0.19/std-agent_0.0.19_windows_arm64.zip) | 4.0 MiB | `native/win/arm64` |
+| [checksums.txt](https://github.com/StringKe/std-ai/releases/download/v0.0.22/checksums.txt) | 1.0 KiB | `other` |
+| [std-agent_0.0.22_darwin_amd64.tar.gz](https://github.com/StringKe/std-ai/releases/download/v0.0.22/std-agent_0.0.22_darwin_amd64.tar.gz) | 4.4 MiB | `native/darwin/x64` |
+| [std-agent_0.0.22_darwin_arm64.tar.gz](https://github.com/StringKe/std-ai/releases/download/v0.0.22/std-agent_0.0.22_darwin_arm64.tar.gz) | 4.0 MiB | `native/darwin/arm64` |
+| [std-agent_0.0.22_freebsd_amd64.tar.gz](https://github.com/StringKe/std-ai/releases/download/v0.0.22/std-agent_0.0.22_freebsd_amd64.tar.gz) | 4.3 MiB | `native/linux/x64` |
+| [std-agent_0.0.22_freebsd_arm64.tar.gz](https://github.com/StringKe/std-ai/releases/download/v0.0.22/std-agent_0.0.22_freebsd_arm64.tar.gz) | 3.8 MiB | `native/linux/arm64` |
+| [std-agent_0.0.22_linux_amd64.tar.gz](https://github.com/StringKe/std-ai/releases/download/v0.0.22/std-agent_0.0.22_linux_amd64.tar.gz) | 4.3 MiB | `native/linux/x64` |
+| [std-agent_0.0.22_linux_arm64.tar.gz](https://github.com/StringKe/std-ai/releases/download/v0.0.22/std-agent_0.0.22_linux_arm64.tar.gz) | 3.9 MiB | `native/linux/arm64` |
+| [std-agent_0.0.22_openbsd_amd64.tar.gz](https://github.com/StringKe/std-ai/releases/download/v0.0.22/std-agent_0.0.22_openbsd_amd64.tar.gz) | 4.3 MiB | `native/linux/x64` |
+| [std-agent_0.0.22_openbsd_arm64.tar.gz](https://github.com/StringKe/std-ai/releases/download/v0.0.22/std-agent_0.0.22_openbsd_arm64.tar.gz) | 3.8 MiB | `native/linux/arm64` |
+| [std-agent_0.0.22_windows_amd64.zip](https://github.com/StringKe/std-ai/releases/download/v0.0.22/std-agent_0.0.22_windows_amd64.zip) | 4.5 MiB | `native/win/x64` |
+| [std-agent_0.0.22_windows_arm64.zip](https://github.com/StringKe/std-ai/releases/download/v0.0.22/std-agent_0.0.22_windows_arm64.zip) | 4.0 MiB | `native/win/arm64` |
 
 ## Improve this data
 
@@ -80,4 +80,4 @@ Install metadata for std-ai lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:27:32Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:42:46Z._
