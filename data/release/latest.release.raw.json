@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 4572652,
       "digest": "sha256:6743962e14b0a1fa2784aa1f05fab27b98506f3d2cdeb7f0f1ca93257584f9fc",
-      "download_count": 117,
+      "download_count": 141,
       "created_at": "2026-09-18T06:41:15Z",
       "updated_at": "2026-09-18T06:41:15Z",
       "browser_download_url": "https://github.com/StringKe/std-agent/releases/download/v0.0.22/std-agent_0.0.22_darwin_amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 4208810,
       "digest": "sha256:7c0638f55ae829aa2d7063f0693959dc1f7cdc48689888d14ed9bfb282b1bb75",
-      "download_count": 118,
+      "download_count": 142,
       "created_at": "2026-09-18T06:41:17Z",
       "updated_at": "2026-09-18T06:41:17Z",
       "browser_download_url": "https://github.com/StringKe/std-agent/releases/download/v0.0.22/std-agent_0.0.22_darwin_arm64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 4504417,
       "digest": "sha256:1856dccd0031c0951c66df79603404175da8b95cf011c13af907efb4b9eb6f76",
-      "download_count": 120,
+      "download_count": 145,
       "created_at": "2026-09-18T06:41:15Z",
       "updated_at": "2026-09-18T06:41:16Z",
       "browser_download_url": "https://github.com/StringKe/std-agent/releases/download/v0.0.22/std-agent_0.0.22_linux_amd64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 4057110,
       "digest": "sha256:82921ab8cf5668b42d87c0484f10bb9e308a1bdbd059684433fb2b727e4465d0",
-      "download_count": 117,
+      "download_count": 141,
       "created_at": "2026-09-18T06:41:16Z",
       "updated_at": "2026-09-18T06:41:16Z",
       "browser_download_url": "https://github.com/StringKe/std-agent/releases/download/v0.0.22/std-agent_0.0.22_linux_arm64.tar.gz"
