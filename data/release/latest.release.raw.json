@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 4504417,
       "digest": "sha256:1856dccd0031c0951c66df79603404175da8b95cf011c13af907efb4b9eb6f76",
-      "download_count": 364,
+      "download_count": 365,
       "created_at": "2026-09-18T06:41:15Z",
       "updated_at": "2026-09-18T06:41:16Z",
       "browser_download_url": "https://github.com/StringKe/std-agent/releases/download/v0.0.22/std-agent_0.0.22_linux_amd64.tar.gz"
