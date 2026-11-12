@@ -33,7 +33,7 @@ Total: **18,857** lines of code across **156** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.0.22` (2026-09-18)
-- **Last commit**: 2026-11-11
+- **Last commit**: 2026-09-18
 - **Assets in release**: 11
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **18,857** lines of code across **156** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 22 · **Merged PRs**: 1 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 53
+- **Releases**: 22 · **Merged PRs**: 1 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 51
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-12 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-13 | 12 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-15 | 19 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-16 | 22 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-21 | 22 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-13 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-14 | 12 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-16 | 19 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-17 | 22 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-22 | 22 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for std-ai lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T05:53:42Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T06:57:53Z._
